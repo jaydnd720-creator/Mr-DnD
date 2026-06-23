@@ -24,5 +24,5 @@ async def on_member_join(member):
         await channel.send(log_message)
 
 # 3. Paste your secret Bot Token inside the single quotes below
-bot.run('MTUxODc1NTI4NTIxMTE1MjU3NA.G2S6wM.qEwUXshzZECiuoMDTStR7vDbZgr5N9IYB6nBnQ.GNjZ1f.2RCMeioaz_9oZ0KeEMUuR0ZofHSFlV8kdFXCPI')
+bot.run('MTUxODc1NTI4NTIxMTE1MjU3NA.GNjZ1f.2RCMeioaz_9oZ0KeEMUuR0ZofHSFlV8kdFXCPI')
 
